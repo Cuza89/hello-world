@@ -2,3 +2,5 @@ Ovo je novi textualni fajl, na githubu.
 Tekst je promenjen na grani 1, i samo tu
 Novo 2 samo u grani1
 
+Tekst je promenjen na grani 11
+
